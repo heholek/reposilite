@@ -43,7 +43,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "html-webpack-inline-source-plugin": "^0.0.10",
     "html-webpack-plugin": "^4.3.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "purgecss": "^2.2.1",
     "rimraf": "^3.0.2",
